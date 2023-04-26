@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+@await Html.PartialAsync("/Views/Dashboard/_HeadPartial.cshtml")
+<body>
+	<div class="container-scroller">
+		@await Html.PartialAsync("/Views/Dashboard/_NavbarPartial.cshtml")
+		<div class="container-fluid page-body-wrapper">
+			@await Html.PartialAsync("/Views/Dashboard/SidebarPartial.cshtml")
+			<div class="main-panel">
+				<div class="content-wrapper">
+					<div class="row">
+						@RenderBody()
+					</div>
+				</div>
+				@await Html.PartialAsync("/Views/Dashboard/_FooterPartial.cshtml")
+			</div>
+		</div>
+	</div>
+	@await Html.PartialAsync("/Views/Dashboard/_ScriptPartial.cshtml")
+</body>
+</html>

@@ -1,0 +1,54 @@
+﻿@using IsTakip.Entities.Classes.MusteriClasses
+@model List<Musteri>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_IsTakipLayout.cshtml";
+}
+
+<div class="col-lg-12 grid-margin stretch-card">
+	<div class="card">
+		<div class="card-body">
+			<h4 class="card-title">Müşteri Tablosu</h4>
+
+			<div class="table-responsive">
+				<table class="table table-hover">
+					<thead>
+						<tr>
+							<th>İşlemler</th>
+							<th>Müşteri Tanımı</th>
+							<th>Adresi</th>
+							<th>Mail Adresi</th>
+							<th>Telefon Numarası</th>
+							<th>Verigi Dairesi</th>							
+							<th>Açıklama</th>
+							<th>Durumu</th>
+						</tr>
+					</thead>
+					@foreach (var item in Model)
+					{
+						<tbody>
+							<tr>
+								<td>
+									<a href="/Musteri/DeleteMusteri/@item.Id" class="btn btn-inverse-danger">Sil</a>
+									<a href="/Musteri/EditMusteri/@item.Id" class="btn btn-inverse-info">Güncelle</a>
+									<a href="/Musteri/DetailsMusteri/@item.Id" class="btn btn-inverse-warning">Detaylar</a>
+								</td>
+								<td>@item.Tanim</td>
+								<td> @item.Adres </td>
+								<td> @item.EMail </td>
+								<td> @item.Telefon </td>
+								<td> @item.VergiDairesi </td>								
+								<td> @item.Aciklama </td>
+								<td> @item.Aktif </td>
+							</tr>
+						</tbody>
+					}
+
+				</table>
+				<a href="/Musteri/AddMusteri" class="btn btn-inverse-primary"> Yeni Müşteri Ekle </a>
+			</div>
+		</div>
+	</div>
+</div>
+
+

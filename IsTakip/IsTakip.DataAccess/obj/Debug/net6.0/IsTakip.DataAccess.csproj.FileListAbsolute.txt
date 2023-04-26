@@ -1,0 +1,51 @@
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.deps.json
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.runtimeconfig.json
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.dll
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.pdb
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.Entities.dll
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.Entities.pdb
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.AssemblyReference.cache
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.AssemblyInfoInputs.cache
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.AssemblyInfo.cs
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.CoreCompileInputs.cache
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.CopyComplete
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.dll
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\refint\IsTakip.DataAccess.dll
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.pdb
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.genruntimeconfig.cache
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\ref\IsTakip.DataAccess.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.deps.json
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.runtimeconfig.json
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.pdb
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.Entities.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.Entities.pdb
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.AssemblyInfo.cs
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.CopyComplete
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\refint\IsTakip.DataAccess.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.pdb
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.genruntimeconfig.cache
+C:\Users\hmert\Desktop\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\ref\IsTakip.DataAccess.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.AssemblyReference.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.AssemblyInfoInputs.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.AssemblyInfo.cs
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.CoreCompileInputs.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\refint\IsTakip.DataAccess.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.pdb
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.deps.json
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.runtimeconfig.json
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.DataAccess.pdb
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.Entities.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\bin\Debug\net6.0\IsTakip.Entities.pdb
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.csproj.CopyComplete
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\IsTakip.DataAccess.genruntimeconfig.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.DataAccess\obj\Debug\net6.0\ref\IsTakip.DataAccess.dll

@@ -1,0 +1,38 @@
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.csproj.AssemblyReference.cache
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.AssemblyInfoInputs.cache
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.AssemblyInfo.cs
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.csproj.CoreCompileInputs.cache
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.deps.json
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.dll
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.pdb
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.dll
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\refint\IsTakip.Entities.dll
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.pdb
+D:\Kodlama\mert çalışma\IsTakip\IsTakip.Entities\obj\Debug\net6.0\ref\IsTakip.Entities.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.deps.json
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.pdb
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.csproj.AssemblyReference.cache
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.AssemblyInfoInputs.cache
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.AssemblyInfo.cs
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\refint\IsTakip.Entities.dll
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.pdb
+C:\Users\hmert\Desktop\IsTakip\IsTakip.Entities\obj\Debug\net6.0\ref\IsTakip.Entities.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.deps.json
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.runtimeconfig.json
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\bin\Debug\net6.0\IsTakip.Entities.pdb
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.csproj.AssemblyReference.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.AssemblyInfoInputs.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.AssemblyInfo.cs
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.csproj.CoreCompileInputs.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\refint\IsTakip.Entities.dll
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.pdb
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\IsTakip.Entities.genruntimeconfig.cache
+D:\Kodlama\Projeler\IsTakip\IsTakip.Entities\obj\Debug\net6.0\ref\IsTakip.Entities.dll
